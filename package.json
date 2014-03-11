@@ -1,5 +1,5 @@
 {
-  "name": "snail-mail",
+  "name": "stampr",
   "description": "Wrapper for Stampr API.  Send postal mail online.",
   "version": "0.0.1",
   "homepage": "https://github.com/stampr/stampr-api-javascript",
