@@ -1,7 +1,7 @@
 {
   "name": "stampr",
   "description": "Wrapper for Stampr API.  Send postal mail online.",
-  "version": "0.0.1-rc1",
+  "version": "0.0.1-rc2",
   "homepage": "https://github.com/stampr/stampr-api-javascript",
   "author": {
     "name": "Cory Mawhorter",
