@@ -42,8 +42,8 @@
     "letters"
   ],
   "dependencies": {
-    "restify": "^2.6.3",
-    "hmmac": "^0.2.0",
-    "moment": "^2.5.1"
+    "restify": "2.6.3",
+    "hmmac": "0.2.0",
+    "moment": "2.5.1"
   }
 }
