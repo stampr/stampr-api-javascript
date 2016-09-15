@@ -52,7 +52,7 @@ batch.find(1234, function(err, batch) {
 });
 
 // Save to API
-batch = stampr->factory('Batch').set('config_id', 1111);
+batch = stampr.factory('Batch').set('config_id', 1111);
 batch.create(function(err, batch) {
     if (err) throw err;
     // do something with batch
