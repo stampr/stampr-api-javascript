@@ -3,7 +3,8 @@ stampr-api-javascript
 
 ## Installing
 
-`npm install stampr`
+Dev: `npm install stampr/stampr/stampr-api-javascript`
+Prod: `npm install stampr/stampr#[version]` where `[version]` is a tag
 
 ## Examples
 

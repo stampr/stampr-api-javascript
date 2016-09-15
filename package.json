@@ -1,7 +1,7 @@
 {
   "name": "stampr",
   "description": "Wrapper for Stampr API.  Send postal mail online.",
-  "version": "0.0.1-rc2",
+  "version": "1.0.0",
   "homepage": "https://github.com/stampr/stampr-api-javascript",
   "author": {
     "name": "Cory Mawhorter",
@@ -42,8 +42,8 @@
     "letters"
   ],
   "dependencies": {
-    "restify": "2.6.3",
-    "hmmac": "git+https://github.com/cmawhorter/hmmac.git#master",
-    "moment": "2.5.1"
+    "hmmac": "^0.2.1",
+    "moment": "^2.15.0",
+    "restify": "4.x"
   }
 }
